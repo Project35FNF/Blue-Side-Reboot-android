@@ -1,22 +1,59 @@
 {
 	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
+		[
+			"Pico",
+			"pico",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Phillly Nice",
+			"pico",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Blammed",
+			"pico",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Infernal",
+			"pico",
+			[
+				146,
+				113,
+				253
+			]
+		]
 	],
-
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "vazio",
+	"difficulties": "",
 	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
+		"vidro",
+		"toshimenu",
+		"boshimenu"
 	],
-	"weekBackground": "stage",
-
-	"storyName": "Daddy Dearest",
-	"weekBefore": "tutorial",
-	"weekName": "Week 1",
-	"startUnlocked": true,
-
+	"storyName": "luzes pisacantes",
+	"weekName": "luz pisacntes",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekBefore": "tutorial",
+	"startUnlocked": true
 }
