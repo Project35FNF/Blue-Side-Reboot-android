@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Date-Night",
+			"gf",
+			[
+				255,
+				33,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "vazio",
+	"difficulties": "",
+	"weekCharacters": [
+		"boshidate",
+		"toshidate",
+		""
+	],
+	"storyName": "luzes pisacantes",
+	"weekName": "luz pisacntes",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
